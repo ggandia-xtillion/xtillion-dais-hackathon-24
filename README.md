@@ -1,5 +1,3 @@
-<img width="1236" alt="image" src="https://github.com/ggandia-xtillion/xtillion-dais-hackathon-24/assets/155562434/47408769-7ec2-4f48-8795-6ef61297c8c9">
-
 # xtillion-dais-hackathon-24
 
 # Project Title
