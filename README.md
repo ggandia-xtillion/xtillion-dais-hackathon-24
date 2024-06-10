@@ -12,9 +12,25 @@ Within this repository, you'll discover:
 
 1. scraper.ipynb: This notebook scrapes information from various websites containing legal resources for immigrants in the Bay Area, compiling the content into a structured JSON format.
 
-2. website_contents.json: A comprehensive JSON file containing the scraped content, serving as the foundation for our chatbot's knowledge base.
+The resources focus on websites within the following topics:
+- General Information on Domestic Violence
+- Domestic Violence in Gay/Lesbian Relationships
+- Domestic Violence – Religion
+- Domestic Violence – Batterer Intervention
+- Housing
+- Health and the Medi-Cal Program
+- California’s Medi-Cal Program
+- Immigration Resources; Deferred Action of Childhood Arrivals (DACA)
+- California Work Opportunities and Responsibility to Kids (CalWORKs)
+- Food Stamp and Nutrition Programs
+- Supplemental Security Income (SSI)
+- Unemployment Insurance
+- Legal Information for Individuals and Families Impacted by Northern California Wildfires
+- Legal Research
 
-3. Rag.ipynb: This notebook utilizes the Retrieve and Generate (RAG) model, powered by Large Language Models (LLMs), to create an interactive chatbot experience. The steps involved in this process include:
+3. website_contents.json: A comprehensive JSON file containing the scraped content, serving as the foundation for our chatbot's knowledge base.
+
+4. Rag.ipynb: This notebook utilizes the Retrieve and Generate (RAG) model, powered by Large Language Models (LLMs), to create an interactive chatbot experience. The steps involved in this process include:
 
     Setting up a vector index and configuring it to leverage an embedding model from the FMAPI for generating embeddings.
     Loading text data into the vector database.
